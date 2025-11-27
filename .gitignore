@@ -1,0 +1,5 @@
+secret.txt
+venv/
+.venv/
+__pycache__/
+*.pyc
